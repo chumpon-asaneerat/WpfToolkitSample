@@ -1,12 +1,15 @@
-﻿<Window x:Class="WpfTookitSample.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfTookitSample"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="WpfTookitSample.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+
+        <xctk:DateTimePicker HorizontalAlignment="Left" Margin="105,55,0,0" VerticalAlignment="Top" Width="315"/>
+
     </Grid>
 </Window>
