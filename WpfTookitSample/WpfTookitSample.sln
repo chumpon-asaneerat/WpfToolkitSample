@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTookitSample", "WpfTookitSample.csproj", "{F9B6054C-BD12-47FD-A809-192614EA13ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B6054C-BD12-47FD-A809-192614EA13ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B6054C-BD12-47FD-A809-192614EA13ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B6054C-BD12-47FD-A809-192614EA13ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B6054C-BD12-47FD-A809-192614EA13ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950F2544-4418-42D5-A362-B0C1D4CC17BB}
+	EndGlobalSection
+EndGlobal
